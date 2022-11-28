@@ -1,0 +1,99 @@
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.staticwebassets.runtime.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.exe
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.deps.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.runtimeconfig.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.AssemblyReference.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfoInputs.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfo.cs
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CoreCompileInputs.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cs
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\bundle\AgenciaDeViagensNyssa.styles.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\projectbundle\AgenciaDeViagensNyssa.bundle.scp.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CopyComplete
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\refint\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.genruntimeconfig.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Back-end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\ref\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.staticwebassets.runtime.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.exe
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.deps.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.runtimeconfig.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.AssemblyReference.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfoInputs.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfo.cs
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CoreCompileInputs.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cs
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\bundle\AgenciaDeViagensNyssa.styles.css
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\projectbundle\AgenciaDeViagensNyssa.bundle.scp.css
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CopyComplete
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\refint\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.genruntimeconfig.cache
+C:\Users\Nyssa\Desktop\Nova pasta (4)\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\ref\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\appsettings.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.staticwebassets.runtime.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.exe
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.deps.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.runtimeconfig.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.AssemblyReference.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfoInputs.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.AssemblyInfo.cs
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CoreCompileInputs.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.RazorAssemblyInfo.cs
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\bundle\AgenciaDeViagensNyssa.styles.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\scopedcss\projectbundle\AgenciaDeViagensNyssa.bundle.scp.css
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.csproj.CopyComplete
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\refint\AgenciaDeViagensNyssa.dll
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.pdb
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\AgenciaDeViagensNyssa.genruntimeconfig.cache
+C:\Users\Nyssa\Documents\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\obj\Debug\net6.0\ref\AgenciaDeViagensNyssa.dll
