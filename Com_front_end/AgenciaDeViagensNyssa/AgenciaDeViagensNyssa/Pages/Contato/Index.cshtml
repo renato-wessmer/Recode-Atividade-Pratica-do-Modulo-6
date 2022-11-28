@@ -1,0 +1,79 @@
+﻿@page
+@model AgenciaDeViagensNyssa.Pages.Contato.IndexModel
+@{
+}
+
+            <div class="depoimentos">
+                <div class="container py-3">
+                    <div class="row">
+                        <div class="col-md-12 text-center">                    
+                            <h2 class="text-color">Contato</h2>
+                            <br> 
+                            <br>                   
+                        </div>
+                    </div>
+                    <form class="row g-3 needs-validation" id="formulario" novalidate>
+                        <div class="col-md-4">
+                            <label for="validationCustom01" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom01" value="Nome" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom02" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Sobrenome" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom03" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Endereço" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom03" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Cidade" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom04" class="form-label"></label>
+                            <select class="form-select" id="validationCustom04" required>
+                            <option selected disabled value="">Selecione Estado</option>
+                            <option>...</option>
+                            </select>
+                        </div>                 
+                        <div class="col-md-4">
+                            <label for="validationCustom03" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="CEP" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom04" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Telefone fixo" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom05" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Telefone celular" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom06" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="e-mail" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustom06" class="form-label"></label>
+                            <input type="text" class="form-control" id="validationCustom02" value="Aniversário" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="validationCustomUsername" class="form-label"></label>
+                            <div class="input-group has-validation">
+                            <span class="input-group-text" id="inputGroupPrepend">Usuário</span>
+                            <input type="text" class="form-control" id="validationCustomUsername"   aria-describedby="inputGroupPrepend" required>
+                        </div>
+                        </div>            
+                        <div class="col-12">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                                <label class="form-check-label" for="invalidCheck">
+                                    Aceita os termos e condições 
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary" type="submit">Submeter</button>
+                        </div>
+                    </form>
+                </div>                    
+            </div> 
