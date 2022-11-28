@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgenciaDeViagensNyssa
+build_property.RootNamespace = AgenciaDeViagensNyssa
+build_property.ProjectDir = C:\Users\Nyssa\Desktop\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nyssa\Desktop\GitHub\Recode-Atividade-Pratica-do-Modulo-6\Com_front_end\AgenciaDeViagensNyssa\AgenciaDeViagensNyssa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Destinos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGlub3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Inscrevase/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zY3JldmFzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Promocoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvbW9jb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nyssa/Desktop/GitHub/Recode-Atividade-Pratica-do-Modulo-6/Com_front_end/AgenciaDeViagensNyssa/AgenciaDeViagensNyssa/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cyx7ygw6oq
