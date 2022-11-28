@@ -1,0 +1,133 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&display=swap');
+
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    margin-bottom: 60px;
+    width: 100%;
+}
+
+.topo {
+    background-color: rgb(245, 140, 20, 0.60);
+    padding: 50px 0px;
+    min-height: 300px;
+}
+
+.divisor-white {
+    width: 30px;
+    margin: 25px auto;
+    border-top: 3px solid #43F063;
+}
+
+.text-color1 {
+    color: #43F063;
+}
+
+.depoimentos {
+    background-color: rgb(255, 255, 255, 0.01);
+    padding: 50px 0px;
+    min-height: 300px;
+}
+
+.faixa {
+    background-color: rgb(245, 140, 20, 0.60);
+    padding: 25px 0px;
+    min-height: 25px;
+}
+
+.parallax {
+    display: flex;
+    justify-content: center;
+    background-image: url("../Praia+de+Yoron.jpg");
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color: rgb(54, 38, 38);
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.foto-flexivel {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.foto-1 {
+    background-image: url("../Amina+Zaria.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.foto-2 {
+    background-image: url("../Nikola+Tesla.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.foto-3 {
+    background-image: url("../Hipolita+UYara.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.flexivel {
+    display: flex;
+    background-color: white;
+    height: auto;
+    align-items: center;
+}
+
+.texto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+    .texto > p {
+        width: 60%;
+        margin-top: 25px;
+    }
+
+.carrossel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.carousel-item > h2 {
+    margin: 30px;
+}
+
+strong {
+    font-size: 25px;
+}
