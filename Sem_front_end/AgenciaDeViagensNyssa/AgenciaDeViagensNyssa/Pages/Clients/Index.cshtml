@@ -1,0 +1,41 @@
+﻿@page
+@model AgenciaDeViagensNyssa.Pages.Clients.IndexModel
+@{
+}
+
+<br>
+<h2>Lista de clientes</h2>
+<a class="btn btn-primary btn-sm" href="/Clients/Create">
+    Novo Cliente
+</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>CPF</th>
+            <th>RG</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Criado em:</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.listClients){
+            <tr>
+                <td>@item.id</td>
+                <td>@item.nome</td>
+                <td>@item.cpf</td>
+                <td>@item.rg</td>
+                <td>@item.email</td>
+                <td>@item.telefone</td>
+                <td>@item.created_at</td>
+                <td>
+                    <a class="btn btn-primary btn-sm btn-warning" href="/Clients/Edit?id=@item.id">Editar</a>
+                    <a class="btn btn-primary btn-sm btn-danger" href="/Clients/Delete?id=@item.id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
