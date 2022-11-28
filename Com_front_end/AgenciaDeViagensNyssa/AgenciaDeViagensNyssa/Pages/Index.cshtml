@@ -1,0 +1,183 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<main>
+    <!-- Seção de apresentação e chamada e vídeo para conhecer a empresa -->
+    <section>
+        <div class="topo">
+            <div class="container pt-3 text-white text-center">
+                <h1 class="display-4"><b>Quer viajar com a Nyssa?</b></h1>
+                <!---O atributo display-4, deixa a letra com menor espessura, deixando mais elegante--->
+                <hr class="divisor-white">
+                <h5 class="lead"><b>Top destinos mais buscados hoje no Brasil, no Planeta Terra e no Espaço sideral</b></h5>
+                <!---O atributo lead deixa a letra um pouco mais fina--->
+                <h5 class="lead"><b>Ofertas que não podem esperar</b></h5>
+                <hr class="divisor-white">
+                <!---Bi bi-play, atribui o icone de tocar ou play no botão vermerlho com nome de <assita ao vídeo>--->
+                <button type="button" class="btn btn-danger btn-lg">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-play-fill" viewBox="0 0 16 16">
+                        <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"></path>
+                    </svg>
+                    Assista ao vídeo
+                </button>
+                <br>
+                <br>
+                <br>
+                <br>
+            </div>
+        </div>
+    </section>
+    <!-- Seção de vantagens da empresa, o porquê utilizá-la  -->
+    <section>
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <br>
+                    <h2 class="text-color1">O que terei utilizando os serviços da Nyssa?</h2>
+                    <br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-bag-heart, atribui o icone da sacola com coração que simboliza a mala de viagens único logo que achei--->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-bag-heart" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M10.5 3.5a2.5 2.5 0 0 0-5 0V4h5v-.5Zm1 0V4H15v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4h3.5v-.5a3.5 3.5 0 1 1 7 0ZM14 14V5H2v9a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1ZM8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132Z"></path>
+                        </svg>
+                        <h3 class="ny-3">A viagem dos seus sonhos</h3>
+                        <p class="lead text-muted">Planejamos a sua viagem com base no seu temperamento, para os coléricos aqueles passeios radicais, para os sanguíneos passeios atraentes e movimentados, para os fleumáticos passeios tranquilos e suave e para os melancólicos passeios individuais e contemplativos.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-egg-fried, atribui o icone do ovo para representar a alimentação--->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-egg-fried" viewBox="0 0 16 16">
+                            <path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path>
+                            <path d="M13.997 5.17a5 5 0 0 0-8.101-4.09A5 5 0 0 0 1.28 9.342a5 5 0 0 0 8.336 5.109 3.5 3.5 0 0 0 5.201-4.065 3.001 3.001 0 0 0-.822-5.216zm-1-.034a1 1 0 0 0 .668.977 2.001 2.001 0 0 1 .547 3.478 1 1 0 0 0-.341 1.113 2.5 2.5 0 0 1-3.715 2.905 1 1 0 0 0-1.262.152 4 4 0 0 1-6.67-4.087 1 1 0 0 0-.2-1 4 4 0 0 1 3.693-6.61 1 1 0 0 0 .8-.2 4 4 0 0 1 6.48 3.273z"></path>
+                        </svg>
+                        <h3 class="ny-3">Os melhores restaurantes</h3>
+                        <p class="lead text-muted">Planejamos uma seleção de alimentação com base no seu temperamento, para os coléricos aqueles comidas condimentadas, para os sanguíneos comida bonita e bem apresentada, para os fleumáticos comida bem substanciosose para os melancólicos comidas doces.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-house-heart, atribui o icone da casa com coração que representa as hospedagens--->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-house-heart" viewBox="0 0 16 16">
+                            <path d="M8 6.982C9.664 5.309 13.825 8.236 8 12 2.175 8.236 6.336 5.309 8 6.982Z"></path>
+                            <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.707L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.646a.5.5 0 0 0 .708-.707L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5ZM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5 5 5Z"></path>
+                        </svg>
+                        <h3 class="ny-3">Hospedagens magníficas</h3>
+                        <p class="lead text-muted">Orientamos a sua hospedagem com base na sua necessidade, se você busca relaxar sem preocupação e por poucos dias ou se você quer ficar mais tempo no destino e gosta de desfrutar da liberdade e de criar seus próprios roteiros.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-ticket-perforated, atribui o icone do ingresso que simboliza os melhores rolês para a viagens --->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-ticket-perforated" viewBox="0 0 16 16">
+                            <path d="M4 4.85v.9h1v-.9H4Zm7 0v.9h1v-.9h-1Zm-7 1.8v.9h1v-.9H4Zm7 0v.9h1v-.9h-1Zm-7 1.8v.9h1v-.9H4Zm7 0v.9h1v-.9h-1Zm-7 1.8v.9h1v-.9H4Zm7 0v.9h1v-.9h-1Z"></path>
+                            <path d="M1.5 3A1.5 1.5 0 0 0 0 4.5V6a.5.5 0 0 0 .5.5 1.5 1.5 0 1 1 0 3 .5.5 0 0 0-.5.5v1.5A1.5 1.5 0 0 0 1.5 13h13a1.5 1.5 0 0 0 1.5-1.5V10a.5.5 0 0 0-.5-.5 1.5 1.5 0 0 1 0-3A.5.5 0 0 0 16 6V4.5A1.5 1.5 0 0 0 14.5 3h-13ZM1 4.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v1.05a2.5 2.5 0 0 0 0 4.9v1.05a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-1.05a2.5 2.5 0 0 0 0-4.9V4.5Z"></path>
+                        </svg>
+                        <h3 class="ny-3">Ingressos para as melhores atrações</h3>
+                        <p class="lead text-muted">Com os nosso parceiros fornecemos os melhores e mais especiais ingresso para shows, teatros, cinemas, espetáculos, saraus e jogos no Brasil e no Mundo.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-currency-bitcoin, atribui o icone de criptomoeda, no caso a imagem do BTC, pois somos moderninhos e tecnológicos.--->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-currency-bitcoin" viewBox="0 0 16 16">
+                            <path d="M5.5 13v1.25c0 .138.112.25.25.25h1a.25.25 0 0 0 .25-.25V13h.5v1.25c0 .138.112.25.25.25h1a.25.25 0 0 0 .25-.25V13h.084c1.992 0 3.416-1.033 3.416-2.82 0-1.502-1.007-2.323-2.186-2.44v-.088c.97-.242 1.683-.974 1.683-2.19C11.997 3.93 10.847 3 9.092 3H9V1.75a.25.25 0 0 0-.25-.25h-1a.25.25 0 0 0-.25.25V3h-.573V1.75a.25.25 0 0 0-.25-.25H5.75a.25.25 0 0 0-.25.25V3l-1.998.011a.25.25 0 0 0-.25.25v.989c0 .137.11.25.248.25l.755-.005a.75.75 0 0 1 .745.75v5.505a.75.75 0 0 1-.75.75l-.748.011a.25.25 0 0 0-.25.25v1c0 .138.112.25.25.25L5.5 13zm1.427-8.513h1.719c.906 0 1.438.498 1.438 1.312 0 .871-.575 1.362-1.877 1.362h-1.28V4.487zm0 4.051h1.84c1.137 0 1.756.58 1.756 1.524 0 .953-.626 1.45-2.158 1.45H6.927V8.539z"></path>
+                        </svg>
+                        <h3 class="ny-3">Aceitamos criptomoedas</h3>
+                        <p class="lead text-muted">Para que seja ofertado junto ou separadamente nossas ofertas e promoções, fazemos todas as nossas negociações em criptomoedas, o que permite valores menores e mais acessível a nossos cliente.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <!---Bi bi-piggy-bank, atribui o icone do cofrinho que simboliza o começo da poupança para a viagem--->
+                    <div class="fs-2 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-piggy-bank" viewBox="0 0 16 16">
+                            <path d="M5 6.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0zm1.138-1.496A6.613 6.613 0 0 1 7.964 4.5c.666 0 1.303.097 1.893.273a.5.5 0 0 0 .286-.958A7.602 7.602 0 0 0 7.964 3.5c-.734 0-1.441.103-2.102.292a.5.5 0 1 0 .276.962z"></path>
+                            <path fill-rule="evenodd" d="M7.964 1.527c-2.977 0-5.571 1.704-6.32 4.125h-.55A1 1 0 0 0 .11 6.824l.254 1.46a1.5 1.5 0 0 0 1.478 1.243h.263c.3.513.688.978 1.145 1.382l-.729 2.477a.5.5 0 0 0 .48.641h2a.5.5 0 0 0 .471-.332l.482-1.351c.635.173 1.31.267 2.011.267.707 0 1.388-.095 2.028-.272l.543 1.372a.5.5 0 0 0 .465.316h2a.5.5 0 0 0 .478-.645l-.761-2.506C13.81 9.895 14.5 8.559 14.5 7.069c0-.145-.007-.29-.02-.431.261-.11.508-.266.705-.444.315.306.815.306.815-.417 0 .223-.5.223-.461-.026a.95.95 0 0 0 .09-.255.7.7 0 0 0-.202-.645.58.58 0 0 0-.707-.098.735.735 0 0 0-.375.562c-.024.243.082.48.32.654a2.112 2.112 0 0 1-.259.153c-.534-2.664-3.284-4.595-6.442-4.595zM2.516 6.26c.455-2.066 2.667-3.733 5.448-3.733 3.146 0 5.536 2.114 5.536 4.542 0 1.254-.624 2.41-1.67 3.248a.5.5 0 0 0-.165.535l.66 2.175h-.985l-.59-1.487a.5.5 0 0 0-.629-.288c-.661.23-1.39.359-2.157.359a6.558 6.558 0 0 1-2.157-.359.5.5 0 0 0-.635.304l-.525 1.471h-.979l.633-2.15a.5.5 0 0 0-.17-.534 4.649 4.649 0 0 1-1.284-1.541.5.5 0 0 0-.446-.275h-.56a.5.5 0 0 1-.492-.414l-.254-1.46h.933a.5.5 0 0 0 .488-.393zm12.621-.857a.565.565 0 0 1-.098.21.704.704 0 0 1-.044-.025c-.146-.09-.157-.175-.152-.223a.236.236 0 0 1 .117-.173c.049-.027.08-.021.113.012a.202.202 0 0 1 .064.199z"></path>
+                        </svg>
+                        <h3 class="ny-3">Consórcio de viagem</h3>
+                        <p class="lead text-muted">Te ajudamos a planejar a viagem dos seus sonhos com tranquilidade, para isso fazemos em parcelas que cabem no seu bolso em até 30 mensalidades e que não ultrapasse 30% dos seus rendimentos mensais.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Seção de informação-->
+    <section class="parallax">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1 class="text-center">'Cause I'm good, yeah, I'm feelin' alright <br> I'ma have the best fuckin' trip of my life...</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Seção de depoimentos em carrossel-->
+    <section>
+        <div class="container py-3">
+            <div class="row">
+                <div id="carouselExampleControls" class="carousel carousel-dark slide carrossel" data-bs-ride="carousel">
+                    <div class="carousel-inner flexivel">
+                        <div class="carousel-item active">
+                            <h2>Depoimentos</h2>
+                            <div class="foto-flexivel">
+                                <div class="foto foto-1"></div>
+                            </div>
+                            <div class="texto">
+                                <p>
+                                    Meu passeio foi muito proveitoso ,curti muito a diversidade de atividades do pacote oferecido.
+                                    <br><br>
+                                    <strong>Amina de Zaria</strong>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <h2>Depoimentos</h2>
+                            <div class="foto-flexivel">
+                                <div class="foto foto-2"></div>
+                            </div>
+                            <div class="texto">
+                                <p>
+                                    Viajei com diversas agências muitos anos, mas foi na Nyssa que me senti acolhido como pessoa e cliente!
+                                    <br><br>
+                                    <strong>Nikola Tesla</strong>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <h2>Depoimentos</h2>
+                            <div class="foto-flexivel">
+                                <div class="foto foto-3"></div>
+                            </div>
+                            <div class="texto">
+                                <p>
+                                    Os preços e serviços são excepcionais.
+                                    <br><br>
+                                    <strong>Hipólita U'Yara</strong>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <button class=" carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                            data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon " aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                            data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
