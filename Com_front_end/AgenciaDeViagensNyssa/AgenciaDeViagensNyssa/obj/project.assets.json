@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nyssa\\Desktop\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa.csproj",
+      "projectUniqueName": "C:\\Users\\Nyssa\\Documents\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa.csproj",
       "projectName": "AgenciaDeViagensNyssa",
-      "projectPath": "C:\\Users\\Nyssa\\Desktop\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa.csproj",
+      "projectPath": "C:\\Users\\Nyssa\\Documents\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa.csproj",
       "packagesPath": "C:\\Users\\Nyssa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nyssa\\Desktop\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\obj\\",
+      "outputPath": "C:\\Users\\Nyssa\\Documents\\GitHub\\Recode-Atividade-Pratica-do-Modulo-6\\Com_front_end\\AgenciaDeViagensNyssa\\AgenciaDeViagensNyssa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nyssa\\AppData\\Roaming\\NuGet\\NuGet.Config",
