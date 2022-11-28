@@ -8,9 +8,9 @@
 * **Ferramentas:** Visual Studio 2022,  Microsoft SQL Server Management Studio.
 
 
-## Link do funcionamento da atividad
+## Link do funcionamento da atividade
 
-
+https://youtu.be/6LZyA_knt0c
 
 ## Requisitos para uso
 
